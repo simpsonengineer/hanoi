@@ -1,4 +1,4 @@
-import org.musiquitous.Hanoi;
+import dev.simpsonengineer.Hanoi;
 
 public class HanoiClient {
   public static void main(String[] args) {

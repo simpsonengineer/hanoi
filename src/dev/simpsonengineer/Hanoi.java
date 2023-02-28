@@ -1,4 +1,4 @@
-package org.musiquitous;
+package dev.simpsonengineer;
 
 public class Hanoi {
   private static int numMoves;
